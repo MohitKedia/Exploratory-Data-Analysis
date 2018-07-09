@@ -4,8 +4,7 @@ Business Case Objective:
 
 One of the leading retail chains in London having more than 500 stores which sells Laptops and accessories. The company would like to define the product strategy and pricing policies that will maximize company projected revenues in 2009.
 
-To see the code,click <a href="https://github.com/MohitKedia/Exploratory-Data-Analysis">here</a>
-Click on View on GitHub to see the code.
+To see the code, click <a href="https://github.com/MohitKedia/Exploratory-Data-Analysis">here</a>
 
 Data Availability:
 
